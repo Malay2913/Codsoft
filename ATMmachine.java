@@ -86,7 +86,7 @@ public class ATMmachine
         if (amount > 0 && (amount % 500 == 0 || amount % 200 == 0 || amount % 100 == 0)) 
         {
             balance += amount;
-            System.out.println("\nDepositing " + amount + " dollars.");
+            System.out.println("\nDepositing " + amount + ".");
             System.out.println("Deposit successful.");
             System.out.println("Your new balance is: $" + balance);
         } 
@@ -101,7 +101,7 @@ public class ATMmachine
         if (amount > 0 && amount <= balance) 
             {
                 balance -= amount;
-                System.out.println("\nWithdrawing " + amount + " dollars.");
+                System.out.println("\nWithdrawing " + amount + ".");
                 System.out.println("Withdraw successful");
                 System.out.println("Your new balance is: $" + balance);
                 System.out.println("Please collect your Cash");
