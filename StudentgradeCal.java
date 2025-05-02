@@ -1,6 +1,8 @@
 import java.util.Scanner;
-public class StudentgradeCal { 
-    public static void main(String[] args){
+public class StudentgradeCal 
+{ 
+    public static void main(String[] args)
+    {
         Scanner obj=new Scanner(System.in);
         int[] marks = new int[5];
         System.out.println("Enter the marks of 5 subjects:");
@@ -59,5 +61,5 @@ public class StudentgradeCal {
         {
             System.out.println("D");
         }
-}
+    }
 }
