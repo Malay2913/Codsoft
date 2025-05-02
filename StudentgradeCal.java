@@ -10,8 +10,10 @@ public class StudentgradeCal {
             marks[i]=obj.nextInt(); 
         }
 
-        for (int i = 0; i < marks.length; i++) {
-            if (marks[i] > 100 || marks[i] < 0) {
+        for (int i = 0; i < marks.length; i++) 
+        {
+            if (marks[i] > 100 || marks[i] < 0) 
+            {
                 System.out.println("Invalid marks Entered");
                 return;
             }
