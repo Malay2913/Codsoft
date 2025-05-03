@@ -31,7 +31,7 @@ The ATM Machine System using Java -based desktop application that simulates the 
 3. Navigate to the project directory:
 4. Compile the Java file:
 5. Run the compiled program:
-6.Follow the steps.
+6. Follow the steps.
 
 ## Features
 
