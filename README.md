@@ -18,11 +18,11 @@ This is a simple Java program that calculates the total marks, average percentag
 - Calculates total marks and average percentage.
 - Assigns a grade based on the average percentage achieved.
 
+
 # Task 2 
 ## ATM Machine
 
-The ATM Machine System using Java -based desktop application that simulates the operations of an Automated Teller Machine (ATM). This system allows users to perform basic banking
-functions such as checking their balance, withdrawing money, depositing funds.
+The ATM Machine System using Java -based desktop application that simulates the operations of an Automated Teller Machine (ATM). This system allows users to perform basic banking functions such as checking their balance, withdrawing money, depositing funds.
 
 ## How to Use
 
