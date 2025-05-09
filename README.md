@@ -42,7 +42,7 @@ The ATM Machine System using Java -based desktop application that simulates the 
   The system ensures that users cannot withdraw more than the available balance.
 - If you done with your **JOB** in ATM you can exit.
 
-# Task 1
+# Task 3
 ## Number Guessing Game
 
 Welcome to the Number Guessing Game! This is a simple Java console game where the player tries to guess a randomly generated number within a specified range.
